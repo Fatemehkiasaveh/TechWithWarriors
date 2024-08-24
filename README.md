@@ -17,11 +17,11 @@ This task involves implementing a linear regression model to predict house price
 
 **How to Run:**
 1. Clone the repository and navigate to the `MachineLearning` directory.
-2. Open the `linear_regression_california_housing.ipynb` file in Google Colab or Jupyter Notebook.
+2. Open the `Task 01 :Implement a linear regression model using scikit- learn to predict house prices.ipynb` file in Google Colab or Jupyter Notebook.
 3. Run the cells in the notebook to train the model and evaluate its performance.
 
 **Results:**
-- The model achieved an R-squared score of **XX** on the test set, indicating the percentage of variance explained by the model.
+- The model achieved an R-squared score of **0.66** on the test set, indicating the percentage of variance explained by the model.
 
 ---
 
@@ -40,11 +40,14 @@ This task involves building a decision tree classifier to classify iris flowers 
 
 **How to Run:**
 1. Clone the repository and navigate to the `MachineLearning` directory.
-2. Open the `decision_tree_iris_classification.ipynb` file in Google Colab or Jupyter Notebook.
+2. Open the `Task 02:Use a decision tree classifier to classify a dataset of iris flowers..ipynb` file in Google Colab or Jupyter Notebook.
 3. Run the cells in the notebook to train the model and evaluate its performance.
 
 **Results:**
-- The model achieved an accuracy of **XX%** on the test set, successfully classifying the iris species.
+- **Precision per class**: [1.0, 0.9375, 0.9091]
+- **Recall per class**: [1.0, 0.8824, 0.9524]
+- **F1 Score per class**: [1.0, 0.9091, 0.9302]
+- The model achieved a balanced performance across the three iris species, indicating good classification accuracy for each class.
 
 ---
 
