@@ -1,6 +1,6 @@
 # Machine Learning Internship Tasks
 
-This repository contains the implementation of various machine learning tasks completed during the Machine Learning Internship at TechWithWarriors. Each task is implemented using different machine-learning techniques and datasets.
+This repository contains the implementation of various machine learning tasks completed during the Machine Learning Internship at TechWithWarriors. Each task is implemented using different machine learning techniques and datasets.
 
 ## Task 01: Linear Regression Model for House Price Prediction
 
@@ -68,6 +68,29 @@ This task involves implementing a K-Nearest Neighbors (KNN) classifier to classi
 
 **Results:**
 - The KNN model achieved an accuracy of **XX%** on the test set, correctly identifying the handwritten digits.
+
+---
+
+## Task 04: Collaborative Filtering-based Recommendation System
+
+**Description:**
+This task involves creating a basic recommendation system using collaborative filtering. The system suggests items to users based on their past interactions and preferences.
+
+**Dataset:**
+- **MovieLens Dataset**: This dataset contains millions of movie ratings from users, which can be used to build and evaluate recommendation systems.
+
+**Implementation Details:**
+- **Model**: Collaborative Filtering
+- **Libraries Used**: Surprise (or similar libraries), pandas, numpy
+- **Evaluation Metrics**: Root Mean Squared Error (RMSE), Precision, Recall.
+
+**How to Run:**
+1. Clone the repository and navigate to the `MachineLearning` directory.
+2. Open the `collaborative_filtering_recommendation.ipynb` file in Google Colab or Jupyter Notebook.
+3. Run the cells in the notebook to train the model and evaluate its performance.
+
+**Results:**
+- The recommendation system achieved an RMSE of **XX** on the test set, demonstrating its effectiveness in suggesting relevant items to users.
 
 ---
 
