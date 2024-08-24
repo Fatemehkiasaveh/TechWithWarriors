@@ -66,11 +66,11 @@ This task involves implementing a K-Nearest Neighbors (KNN) classifier to classi
 
 **How to Run:**
 1. Clone the repository and navigate to the `MachineLearning` directory.
-2. Open the `knn_mnist_classification.ipynb` file in Google Colab or Jupyter Notebook.
+2. Open the `Task 03: Develop a k-nearest neighbors (KNN) classifier for image classification using TensorFlow/Keras..ipynb` file in Google Colab or Jupyter Notebook.
 3. Run the cells in the notebook to train the model and evaluate its performance.
 
 **Results:**
-- The KNN model achieved an accuracy of **XX%** on the test set, correctly identifying the handwritten digits.
+- The KNN model achieved an accuracy of **97.05%** on the test set, correctly identifying the handwritten digits.
 
 ---
 
