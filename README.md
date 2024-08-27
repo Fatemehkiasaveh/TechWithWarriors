@@ -83,17 +83,17 @@ This task involves creating a basic recommendation system using collaborative fi
 - **MovieLens Dataset**: This dataset contains millions of movie ratings from users, which can be used to build and evaluate recommendation systems.
 
 **Implementation Details:**
-- **Model**: Collaborative Filtering
-- **Libraries Used**: Surprise (or similar libraries), pandas, numpy
+- **Method**: Collaborative Filtering
+- **Libraries Used**: Surprise , pandas, numpy
 - **Evaluation Metrics**: Root Mean Squared Error (RMSE), Precision, Recall.
 
 **How to Run:**
 1. Clone the repository and navigate to the `MachineLearning` directory.
-2. Open the `collaborative_filtering_recommendation.ipynb` file in Google Colab or Jupyter Notebook.
+2. Open the `Task 04: Create a basic recommendation system using collaborative filtering..ipynb` file in Google Colab or Jupyter Notebook.
 3. Run the cells in the notebook to train the model and evaluate its performance.
 
 **Results:**
-- The recommendation system achieved an RMSE of **XX** on the test set, demonstrating its effectiveness in suggesting relevant items to users.
+- The recommendation system achieved an RMSE of 0.8431 on the test set, demonstrating its effectiveness in suggesting relevant items to users.
 
 ---
 
